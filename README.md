@@ -1,1 +1,0 @@
-# ritcheyandai_from_base64_in_file_i1
